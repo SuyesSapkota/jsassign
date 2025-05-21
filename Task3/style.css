@@ -1,0 +1,13 @@
+#message {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    margin-top: 50px;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+  }
+  

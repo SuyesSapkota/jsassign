@@ -1,0 +1,8 @@
+#shapeBox {
+    width: 200px;
+    height: 200px;
+    background-color: steelblue;
+    margin: 50px auto;
+    transition: border-radius 0.3s ease;
+  }
+  

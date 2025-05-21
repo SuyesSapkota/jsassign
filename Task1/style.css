@@ -1,0 +1,14 @@
+#colorBox {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 20px auto;
+    transition: background-color 0.3s;
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+  }
+  

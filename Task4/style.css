@@ -1,0 +1,16 @@
+#moveBox {
+    width: 100px;
+    height: 100px;
+    background-color: mediumseagreen;
+    position: relative;
+    left: 0;
+    transition: left 0.5s ease;
+    margin: 50px auto;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+  }
+  
